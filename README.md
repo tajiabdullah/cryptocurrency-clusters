@@ -2,11 +2,11 @@
 
 ## Cryptocurrency Clusters
 
-This assignment involved unsupervised learning, which utilized several clustering algorithms to explore whether cryptocurrencies can be grouped together with other similar cryptocurrencies. Further, for this assignment, I completed steps as follows. 
+This project involved unsupervised learning, which utilized several clustering algorithms to explore whether cryptocurrencies can be grouped together with other similar cryptocurrencies. Further, for this project, I completed steps as follows. 
 
 ### Data Preparation
 
-1. Read `crypto_data.csv` into Pandas. 
+1. Read crypto_data.csv into Pandas. 
 
 2. Discarded all cryptocurrencies that are not being traded.
 
